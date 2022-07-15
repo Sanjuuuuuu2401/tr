@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 7,
+      "name": "icecream",
+      "price": 200000
+    },
+    {
+      "name": "lessi",
+      "price": "678778",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "chco",
+      "price": 200000
+    },
+    {
+      "id": "3",
+      "name": "sanjay",
+      "price": "3553535"
+    },
+    {
+      "id": "66",
+      "name": "66",
+      "price": "55"
+    }
+  ]
+}
